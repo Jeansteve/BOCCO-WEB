@@ -19,7 +19,7 @@
 </head>
 <body>
 <div id="container">
-    <header class="page-header">
-        <h1>COMMANDER VOTRE BOCCO !!!</h1>
+    <header class="page-header col-lg-12">
+        <h1 class=""><img id="img-logo" src="./images/logo2.png" alt="" class=""/>     COMMANDER VOTRE BOCCO !!!</h1>
     </header>
     <section class="row col-lg-10">
